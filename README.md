@@ -1,1 +1,2 @@
 # Glowing-Website-Project
+GLOWING is a user-friendly e-commerce platform designed exclusively for skincare products. Built using front-end technologies such as HTML, CSS, and JavaScript, GLOWING provides a sleek and responsive interface that allows users to browse through a wide range of skincare items, including cleansers, moisturizers, serums, and more. The website is designed with simplicity and aesthetics in mind to enhance the user experience, ensuring easy navigation and product discovery.
